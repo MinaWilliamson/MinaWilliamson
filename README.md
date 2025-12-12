@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mina! <br/><a>Programmer</a>, Foss Dev </a>, Linux Nerd</a></h1>
+<h1>Hi, I'm Mina! <br/><a>Programmer</a>, Foss Dev</a>, Linux Nerd</a></h1>
 
 <h2>Python Projects:</h2>
   <h3><ahref="[url](https://github.com/MinaWilliamson/py-fun)">Py-Fun</a>
