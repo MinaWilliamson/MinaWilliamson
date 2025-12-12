@@ -6,7 +6,7 @@
   <b>Py-Fun is my personal project where I create weird things no one needs for my own entertainment and learning!</b> 
 
 
-<h2>My Goals:</h2>
+<h2>My Current Goals:</h2>
 
 - Applying Python to real world development scenarios, and seeing how to practically impliment it to achive ideas I have.
 - Studying for the CompTIA A+ cert. My plan is to work my way through Security+, Network+, and Linux+ in the future as well.
