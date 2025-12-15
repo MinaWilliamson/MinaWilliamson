@@ -1,11 +1,11 @@
 <h1>Hi, I'm Mina! <br/><a>Programmer</a>, Foss Dev</a>, Linux Nerd</a></h1>
  <h2>A Little about me:</h2>
-I'm an aspiring Python and C++ developer with a great deal of interest in FOSS and Linux based development. At the moment I am currently cutting my teeth into programming via Python, and from there plan to learn the fundamentals of C++. I'm interested primarily in working in software and Game Development, but plan to hone my craft while working IT Help Desk after getting the A+ cert.
+I'm an aspiring Python and C++ developer with a great deal of interest in FOSS and Linux based development. At the moment I am currently cutting my teeth into programming via Python, and from there plan to learn the fundamentals of C++. I'm interested primarily in working in software and Game Development, and plan to hone my craft while working an IT Help Desk job.
 <br></br>
 
 
 <h2>Python Projects:</h2>
-  <b>Currently I have a single responsitory where I store all my Python Projects. https://github.com/MinaWilliamson/python-portfolio</b>
+  <b>Currently I have a single repository where I store all my Python Projects. https://github.com/MinaWilliamson/python-portfolio</b>
  
   Here you can find one off scripts as well as my current larger projects:
 
@@ -22,6 +22,3 @@ I'm an aspiring Python and C++ developer with a great deal of interest in FOSS a
 - Mastering the basics of python via projects, daily scripting, and solving Leetcode Python Problems.
 
 - Applying what I have learnt from both my certifications and Python to ease my transition into learning and mastering C++
-
-
-
