@@ -8,10 +8,13 @@
 
 <h2>My Current Goals:</h2>
 
-- Applying Python to real world development scenarios, and seeing how to practically impliment it to achive ideas I have.
+- Applying Python to real world development scenarios, and seeing how to practically implement coding to achieve ideas I have.
 - Studying for the CompTIA A+ cert. My plan is to work my way through Security+, Network+, and Linux+ in the future as well.
 - Working on a desktop note-taking application, with snippet markdowns, and a tagging/search function utilising SQLite for those who want an offline, private, and secure coding knowledge base.
+- Making small games for my portfolio, such as simple platformers and rogue-likes to demonstrate my coding ability. I'm also an artist so I plan to feature my own artwork and assets I've created.
+- Utilising Python for a Data Analysis project, via creating a simple tool for organising and comparing film ratings across multiple platforms.
 
  <h2>A Little about me:</h2>
-I always grew up surrounded by computers. My mother was a data scientist and programmer who was fascinated by VPNs, torrenting, and scripting as I was growing up. My dad was an avid jerry-rigging PC builder, who spent much of his free time bashing scrap Intel CPUs into screaming Lenovo boards. He loved linux, always christening the freaks of nature he created with spare Ubuntu and Redhat installs he got off old disks from PC magazine. My first computer was my beloved Raspberry Pi model B when I was just 9 years old. I spent many hours trying to unnsuccessfully program a chat bot (similar to clever bot, which I adored at the time) and trying to play Minecraft education ed. to no luck.
+I'm an aspiring Python and C++ developer with a great deal of interest in FOSS and Linux based development. At the moment I am currently cutting my teeth into programming via Python, and from there plan to learn the fundamentals of C++. I'm interested primarily in working in software and Game Development, but plan to hone my craft while working IT Help Desk after getting the A+ cert.
 <br></br>
+
