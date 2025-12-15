@@ -5,7 +5,7 @@ I'm an aspiring Python and C++ developer with a great deal of interest in FOSS a
 
 
 <h2>Python Projects:</h2>
-  <b>Currently I have a single responsitory where I store all my current Python Projects. https://github.com/MinaWilliamson/python-portfolio</b>
+  <b>Currently I have a single responsitory where I store all my Python Projects. https://github.com/MinaWilliamson/python-portfolio</b>
  
   Here you can find one off scripts as well as my current larger projects:
 
