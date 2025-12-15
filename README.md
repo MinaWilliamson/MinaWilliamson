@@ -6,6 +6,7 @@ I'm an aspiring Python and C++ developer with a great deal of interest in FOSS a
 
 <h2>Python Projects:</h2>
   <b>Currently I have a single responsitory where I store all my current Python Projects. https://github.com/MinaWilliamson/python-portfolio</b>
+ 
   Here you can find one off scripts as well as my current larger projects:
 
   - Working on a desktop note-taking application, with snippet markdowns, and a tagging/search function utilising SQLite for those who want an offline, private, and secure coding knowledge base.
