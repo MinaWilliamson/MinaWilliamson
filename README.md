@@ -7,7 +7,8 @@ During my last role, I honed my ability for qualitative data entry and developed
 
 In my free time, I enjoy exploring Python and data simulations, and I am always looking for opportunities to expand my knowledge and skills. I am also a passionate artist and designer, and enjoy making pretty, clear, and user-accessible data visualisations in Power BI and Metabase. Whether working in a team or independently, I am driven by the excitement of learning, and the satisfaction of using logic and data to solve complex problems.
 
-My CV. 
+[My CV can be seen here](https://github.com/user-attachments/files/24245791/Mina.Williamson.CV.Dec.2025.pdf)
 
 <h2>Portfolio Projects</h2>
+
 
