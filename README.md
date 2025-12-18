@@ -1,23 +1,13 @@
-<h1>Hi, I'm Mina! <br/><a>Programmer</a>, Foss Dev</a>, Linux Nerd</a></h1>
- <h2>A Little about me:</h2>
-I’m an aspiring software developer passionate about FOSS and Linux-based development. I’m currently learning Python as a foundation for C++, with a focus on software and game development, and I aim to gain practical experience through IT support.
-<br></br>
-
-
-<h2>Python Projects:</h2>
-  <b>Currently my main project is a DnD dice roller application
+<h1>Hi, I'm Mina! <br/><a>Programming -</a> Data Analytics</a> - </a>Data Visualization</h1>
+ <h2>About me</h2>
  
-Future projects I hope to tackle:
+I have a background in administration, and I am currently trying to transition into the Programming and data science industry. I have developed a strong foundation in administrative skills and GDPR compliant data handling as a ward based receptionist and admin. 
 
-  - A desktop note-taking application, with snippet markdowns, and a tagging/search function utilising SQLite for those who want an offline, private, and secure coding knowledge base.
-    
-- Making small games for my portfolio, such as simple platformers and rogue-likes to demonstrate my coding ability. I'm also an artist so I plan to feature my own artwork and assets I've created.
-  
-- Utilising Python for a Data Analysis project, via creating a simple tool for organising and comparing film ratings across multiple platforms.
+During my last role, I honed my ability for qualitative data entry and developed a keen eye for identifying discrepancies in data entry. I also gained experience in conducting surveys and audits, helping give useful insight to management on day to day ward operations and patient satisfaction.
 
-<h2>My Current Goals:</h2>
+In my free time, I enjoy exploring Python and data simulations, and I am always looking for opportunities to expand my knowledge and skills. I am also a passionate artist and designer, and enjoy making pretty, clear, and user-accessible data visualisations in Power BI and Metabase. Whether working in a team or independently, I am driven by the excitement of learning, and the satisfaction of using logic and data to solve complex problems.
 
-- Studying for the CompTIA A+ cert. My plan is to work my way through Security+, Network+, and Linux+ in the future as well.
-- studying the C++ entry level
+My CV. 
 
-- Mastering the basics of python via projects, daily scripting, and solving Leetcode Python Problems.
+<h2>Portfolio Projects</h2>
+
